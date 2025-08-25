@@ -20,17 +20,6 @@ I also enjoy jotting down thoughts and daily reflections in my digital garden.
 
 ---
 
-## 🌿 Knowledge Garden
-Notes in progress — rough, messy, but growing 🌱  
-
-- [Industrial OS & Deterministic Scheduling](#)  
-- [AI & Machine Learning Notes](#)  
-- [Product Manager Learning Path & Projects](#)  
-- [Psychology Exam Notes](#)  
-- [Essays & Daily Thoughts](#)  
-
-
----
 
 ## 🛠️ Projects & Experiments
 | Repository | Description |
