@@ -8,10 +8,6 @@ I also enjoy jotting down thoughts and daily reflections in my digital garden.
 ---
 
 ## 🌱 Currently Exploring
-![AI](https://img.shields.io/badge/-AI%20Learning-blue?logo=openai&logoColor=white)
-![OS](https://img.shields.io/badge/-Industrial%20OS-orange?logo=linux&logoColor=white)
-![PM](https://img.shields.io/badge/-Product%20Management-green?logo=notion&logoColor=white)
-![Psychology](https://img.shields.io/badge/-Psychology-purple?logo=bookstack&logoColor=white)
 
 - 🤖 **AI & Machine Learning**: Deep learning, Transformers, practical AI applications  
 - 🛠️ **Industrial Operating Systems**: Real-time OS, deterministic scheduling, robotics OS  
